@@ -1,0 +1,11 @@
+0,TypeError,unsupported operand type(s) for *: 'int' and 'ellipsis',0,,2022-06-26 11:35:05.042957
+1,TypeError,"float() argument must be a string or a number, not 'ellipsis'",0,,2022-06-26 11:35:07.377328
+2,NameError,name 'faithful_residuals' is not defined,0,,2022-06-26 11:35:10.520393
+3,NameError,name 'faithful_residuals' is not defined,0,,2022-06-26 11:35:11.623141
+4,AttributeError,'ellipsis' object has no attribute 'labels',0,,2022-06-26 11:35:17.668320
+5,NameError,name 'below_3_r' is not defined,0,,2022-06-26 11:35:19.544847
+6,TypeError,"float() argument must be a string or a number, not 'ellipsis'",0,,2022-06-26 11:35:21.069155
+7,ValueError,The column 'predicted' contains non-numerical values. A plot cannot be drawn for this column.,0,,2022-06-26 11:35:23.547322
+8,TypeError,unsupported operand type(s) for -: 'float' and 'NoneType',0,,2022-06-26 11:35:24.274835
+9,TypeError,"float() argument must be a string or a number, not 'ellipsis'",0,,2022-06-26 14:27:16.242376
+10,TypeError,unsupported operand type(s) for -: 'float' and 'ellipsis',0,,2022-06-26 14:28:00.193984

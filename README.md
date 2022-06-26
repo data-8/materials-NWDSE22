@@ -6,7 +6,6 @@ This repository contains Data 8 assignment files and the associated tests for th
 
 - `lab02regression/`: The Regression Lab
   - `lab02.ipynb`: Main Lab assignment
-  - `lab02_sol.ipynb`: Lab assignment solutions
   - `tests/`: Autograder tests
   - Other associated supportive files
 

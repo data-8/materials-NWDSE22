@@ -4,6 +4,8 @@ This repository contains Data 8 assignment files and the associated tests for th
 
 ## File Structure
 
+- `lec02regression/`: Regression Lecture
+  - `lec02.ipynb`: Regression Lecture Main Demo
 - `lab02regression/`: The Regression Lab
   - `lab02.ipynb`: Main Lab assignment
   - `tests/`: Autograder tests
